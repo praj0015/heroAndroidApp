@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hero_API_project</string>
+    <string name="name">Name:</string>
+    <string name="localized_name">Localized Name:</string>
+    <string name="primary_attr">Primary Attr:</string>
+    <string name="todo">TODO</string>
+</resources>
